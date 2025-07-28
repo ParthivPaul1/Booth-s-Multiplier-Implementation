@@ -1,3 +1,5 @@
+# Booth's Multiplier Implementation
+
 This repository showcases the hardware implementation of a high-speed binary multiplier system, meticulously designed in Verilog HDL and deployed on a Basys-3 FPGA board. The system leverages Booth's Algorithm for efficient multiplication of signed binary numbers.
 <img width="788" height="691" alt="Booth'sAlgoFlow drawio" src="https://github.com/user-attachments/assets/fb9ed837-516d-4e60-9877-70b2c671d71c" />
 
